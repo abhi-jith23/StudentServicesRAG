@@ -1,0 +1,63 @@
+source_id,title,url,source_group,audience,degree_level,faculty,programme_name,language,is_external,approved
+SRC_ADM_001,Bachelor and Master Admissions,https://www.uni.lu/en/admissions/bachelor-master/,admissions,prospective,bachelor_master,,,en,FALSE,TRUE
+SRC_ADM_002,Eligibility Criteria,https://www.uni.lu/en/admissions/admission-criteria/,admissions,prospective,bachelor_master,,,en,FALSE,TRUE
+SRC_ADM_003,Required Documents,https://www.uni.lu/en/admissions/bachelor-master/required-documents/,admissions,prospective,bachelor_master,,,en,FALSE,TRUE
+SRC_ADM_004,Proof of Language Skills,https://www.uni.lu/en/admissions/proof-of-language-skills/,admissions,prospective,bachelor_master,,,en,FALSE,TRUE
+SRC_ADM_005,Diploma Recognition,https://www.uni.lu/en/admissions/diploma-recognition/application-for-bachelors-programmes/,admissions,prospective,bachelor,,,en,FALSE,TRUE
+SRC_ADM_006,Recognition of Prior Experience,https://www.uni.lu/en/admissions/recognition-of-prior-experience/,admissions,prospective,bachelor_master,,,en,FALSE,TRUE
+SRC_ADM_007,Faculties & Departments,https://www.uni.lu/en/about/organisation/faculties-departments/,university_structure,prospective,bachelor_master,,,en,FALSE,TRUE
+SRC_EXT_DIP_001,Recognition of Foreign Secondary School Diplomas,https://guichet.public.lu/en/citoyens/travail/recherche-emploi/documents-utiles-candidature/reconnaissance-bac-maturite.html,diploma_recognition,prospective,bachelor,,,en,TRUE,TRUE
+SRC_EXT_DIP_002,Academic Recognition of Foreign Higher Education Diplomas,https://guichet.public.lu/en/citoyens/famille-education/etudes-superieures/reconnaissance-diplomes/inscription-registre-titres.html,diploma_recognition,prospective,master,,,en,TRUE,TRUE
+SRC_PROG_001,Study Programme Overview,https://www.uni.lu/en/education/study-programme-overview/,programmes,prospective,bachelor_master,,,en,FALSE,TRUE
+SRC_PROG_002,FSTM Study Programmes,https://www.uni.lu/fstm-en/studies/,programmes,prospective,bachelor_master,FSTM,,en,FALSE,TRUE
+SRC_PROG_003,Bachelor in Applied Information Technology,https://www.uni.lu/fstm-en/study-programs/bachelor-in-applied-information-technology/,programmes,prospective,bachelor,FSTM,information_technology,en,FALSE,TRUE
+SRC_PROG_004,Bachelor in Computer Science,https://www.uni.lu/fstm-en/study-programs/bachelor-in-computer-science/,programmes,prospective,bachelor,FSTM,computer_science,en,FALSE,TRUE
+SRC_PROG_005,Bachelor in Digital Engineering,https://www.uni.lu/fstm-en/study-programs/bachelor-in-engineering-digital-engineering/,programmes,prospective,bachelor,FSTM,digital_engineering,en,FALSE,TRUE
+SRC_PROG_006,Bachelor in Electrical Engineering,https://www.uni.lu/fstm-en/study-programs/bachelor-in-engineering-electrical-engineering/,programmes,prospective,bachelor,FSTM,electrical_engineering,en,FALSE,TRUE
+SRC_PROG_007,Bachelor in Medicine,https://www.uni.lu/fstm-en/study-programs/bachelor-en-medecine/,programmes,prospective,bachelor,FSTM,medicine,en,FALSE,TRUE
+SRC_PROG_008,Bachelor in Life Sciences - Biology,https://www.uni.lu/fstm-en/study-programs/bachelor-in-life-sciences-biology/,programmes,prospective,bachelor,FSTM,life_science_biology,en,FALSE,TRUE
+SRC_PROG_009,Bachelor in Mathematics,https://www.uni.lu/fstm-en/study-programs/bachelor-in-mathematics/,programmes,prospective,bachelor,FSTM,mathematics,en,FALSE,TRUE
+SRC_PROG_010,Bachelor in Physics,https://www.uni.lu/fstm-en/study-programs/bachelor-in-physics/,programmes,prospective,bachelor,FSTM,physics,en,FALSE,TRUE
+SRC_PROG_011,Master in Cybersecurity and Cyber Defence,https://www.uni.lu/fstm-en/study-programs/master-in-cybersecurity-and-cyber-defence/,programmes,prospective,master,FSTM,cybersecurity,en,FALSE,TRUE
+SRC_PROG_012,Erasmus Mundus Joint Master in Cybersecurity,https://www.uni.lu/fstm-en/study-programs/erasmus-mundus-joint-master-in-cybersecurity/,programmes,prospective,master,FSTM,erasmus_cybersecurity,en,FALSE,TRUE
+SRC_PROG_013,Master in Information and Computer Sciences,https://www.uni.lu/fstm-en/study-programs/master-in-information-and-computer-sciences/,programmes,prospective,master,FSTM,computer_science,en,FALSE,TRUE
+SRC_PROG_014,Master in High Performance Computing,https://www.uni.lu/fstm-en/study-programs/master-in-high-performance-computing/,programmes,prospective,master,FSTM,high_performance_computing,en,FALSE,TRUE
+SRC_PROG_015,Master in Information System Security Management,https://www.uni.lu/fstm-en/study-programs/master-in-information-system-security-management/,programmes,prospective,master,FSTM,information_system_security,en,FALSE,TRUE
+SRC_PROG_016,Master in Sustainable Product Creation,https://www.uni.lu/fstm-en/study-programs/master-in-sustainable-product-creation/,programmes,prospective,master,FSTM,sustainable_product_creation,en,FALSE,TRUE
+SRC_PROG_017,Master in Actuarial Sciences,https://www.uni.lu/fstm-en/study-programs/master-in-actuarial-sciences/,programmes,prospective,master,FSTM,actuarial_sciences,en,FALSE,TRUE
+SRC_PROG_018,Master in Data Science,https://www.uni.lu/fstm-en/study-programs/master-in-data-science/,programmes,prospective,master,FSTM,data_science,en,FALSE,TRUE
+SRC_PROG_019,Master in Mathematics - Financial Mathematics,https://www.uni.lu/fstm-en/study-programs/master-in-mathematics-financial-mathematics/,programmes,prospective,master,FSTM,financial_mathematics,en,FALSE,TRUE
+SRC_PROG_020,Master in Mathematics - General Mathematics,https://www.uni.lu/fstm-en/study-programs/master-in-mathematics-general-mathematics/,programmes,prospective,master,FSTM,general_mathematics,en,FALSE,TRUE
+SRC_PROG_021,Master in Mathematics - Mathematical Modelling and Computational Sciences,https://www.uni.lu/fstm-en/study-programs/master-in-mathematics-mathematical-modelling-and-computational-sciences/,programmes,prospective,master,FSTM,mathematical_modelling,en,FALSE,TRUE
+SRC_PROG_022,FDEF Study Programmes,https://www.uni.lu/fdef-en/studies/,programmes,prospective,bachelor_master,FDEF,,en,FALSE,TRUE
+SRC_PROG_023,Bachelor en Droit,https://www.uni.lu/fdef-en/study-programs/bachelor-en-droit/,programmes,prospective,bachelor,FDEF,law,en,FALSE,TRUE
+SRC_PROG_024,Bachelor en sciences économiques,https://www.uni.lu/fdef-en/study-programs/bachelor-en-sciences-economiques/,programmes,prospective,bachelor,FDEF,economics,en,FALSE,TRUE
+SRC_PROG_025,Master in Finance and Economics,https://www.uni.lu/fdef-en/study-programs/master-in-finance-and-economics/,programmes,prospective,master,FDEF,finance_economics,en,FALSE,TRUE
+SRC_PROG_026,FHSE Study Programmes,https://www.uni.lu/fhse-en/studies/,programmes,prospective,bachelor_master,FHSE,,en,FALSE,TRUE
+SRC_PROG_027,Bachelor en Sciences sociales et éducatives,https://www.uni.lu/fhse-en/study-programs/bachelor-en-sciences-sociales-et-educatives/,programmes,prospective,bachelor,FHSE,social_educational_sciences,en,FALSE,TRUE
+SRC_PROG_028,Bachelor en Sciences de l'éducation,https://www.uni.lu/fhse-en/study-programs/bachelor-en-sciences-de-l-education/,programmes,prospective,bachelor,FHSE,education,en,FALSE,TRUE
+SRC_PROG_029,Master in Social Sciences and Educational Sciences,https://www.uni.lu/fhse-en/study-programs/master-in-social-sciences-and-educational-sciences/,programmes,prospective,master,FHSE,social_educational_sciences,en,FALSE,TRUE
+SRC_CURR_001,Re-enrolment,https://www.uni.lu/en/admissions/reenrolment/,reenrolment,current,bachelor_master,,,en,FALSE,TRUE
+SRC_CURR_002,Payment,https://www.uni.lu/en/education/academic-matters/student-status/payment/,student_status,current,bachelor_master,,,en,FALSE,TRUE
+SRC_CURR_003,Student Status,https://www.uni.lu/en/education/academic-matters/student-status/,academic_matters,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_CURR_004,Study Progression,https://www.uni.lu/en/education/academic-matters/study-progression/,academic_matters,current,bachelor_master,,,en,FALSE,TRUE
+SRC_CURR_005,One-Stop Spot for UniLu students,https://www.uni.lu/en/for-students/,student_life,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_CURR_006,Special Arrangements,https://www.uni.lu/en/education/academic-matters/special-arrangements/,academic_matters,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_CURR_007,Academic Conduct,https://www.uni.lu/en/education/academic-matters/academic-conduct/,academic_matters,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_CURR_008,Appeals,https://www.uni.lu/en/education/academic-matters/complaints-appeals/,academic_matters,current,bachelor_master,,,en,FALSE,TRUE
+SRC_OFFICIAL_001,Official Documents,https://www.uni.lu/en/about/official-documents/,regulations,current,bachelor_master,,,en,FALSE,TRUE
+SRC_OFFICIAL_002,Study Regulations,https://www.uni.lu/wp-content/uploads/sites/11/2024/10/Reglement-des-etudes-du-24-septembre-2024_fr.pdf,regulations,prospective_current,bachelor_master,,,fr,FALSE,TRUE
+SRC_OFFICIAL_003,Bachelor Annex,https://www.uni.lu/wp-content/uploads/sites/11/2026/02/09090903/Annexe-2026-27-au-reglement-des-etudes-%E2%80%93-programmes-de-bachelor_web.pdf,regulations,current,bachelor,,,fr,FALSE,TRUE
+SRC_OFFICIAL_004,Master Annex,https://www.uni.lu/wp-content/uploads/sites/11/2026/05/04133108/RE-2026-27-Annexes_MAall_20260427.pdf,regulations,current,master,,,fr,FALSE,TRUE
+SRC_HOUSING_001,Accommodation,https://www.uni.lu/life-en/accommodation/,accommodation,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_HOUSING_002,List of Residences,https://www.uni.lu/life-en/accommodation/residences/,accommodation,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_HOUSING_003,Your Lease,https://www.uni.lu/life-en/accommodation/lease/,accommodation,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_HOUSING_004,Accommodation Details,https://www.uni.lu/life-en/accommodation/offer/,accommodation,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_HOUSING_005,Application,https://www.uni.lu/life-en/accommodation/application/,accommodation,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_IMM_001,Authorisation to Stay and Residence Permit,https://www.uni.lu/life-en/moving-to-luxembourg/residence-permit/,immigration,prospective_current,bachelor_master,,,en,FALSE,TRUE
+SRC_IMM_002,Residence Permit for students from third countries,https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/etudiant/etudiant-pays-tiers.html,immigration,prospective_current,bachelor_master,,,en,TRUE,TRUE
+SRC_FIN_001,Cost of Living and Budget,https://www.uni.lu/life-en/financial-support/cost-of-living/,financial_support,prospective,bachelor_master,,,en,FALSE,TRUE
+SRC_FIN_002,State Financial Aid for Higher Education - AideFi,https://mengstudien.public.lu/en/aides-financieres/aidefi.html,financial_support,prospective_current,bachelor_master,,,en,TRUE,TRUE
+SRC_HEALTH_001,Health Insurance,https://www.uni.lu/life-en/moving-to-luxembourg/insurances/,health_insurance,both,bachelor_master,,,en,FALSE,TRUE
+SRC_HEALTH_002,Studying in Luxembourg - Health Insurance,https://cns.public.lu/en/assure/droits-demarches/dossiers-thematiques/etudes-assurance/etudier-au-luxembourg.html,health_insurance,prospective_current,bachelor_master,,,en,TRUE,TRUE
+SRC_CAL_001,Academic Calendar,https://www.uni.lu/en/about/academic-calendar/,academic_calendar,prospective_current,bachelor_master,,,en,FALSE,TRUE

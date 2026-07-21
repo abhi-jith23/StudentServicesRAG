@@ -12,3 +12,15 @@ results/*.jsonl
 
 *.pyc
 .ipynb_checkpoints/
+
+# Downloaded and generated corpus data
+data/raw/
+data/cleaned/
+
+# Generated discovery data
+data/catalog/discovered_links.csv
+data/catalog/discovered_links_triaged.csv
+data/catalog/candidate_link_backlog.csv
+
+# Generated validation outputs
+data/review/collection_validation.csv
