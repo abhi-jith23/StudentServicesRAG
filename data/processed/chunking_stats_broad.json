@@ -1,0 +1,253 @@
+{
+  "chunking_config": "broad",
+  "embedding_model_for_tokenisation": "intfloat/multilingual-e5-small",
+  "document_count": 62,
+  "chunk_count": 2057,
+  "minimum_tokens": 40,
+  "median_tokens": 284,
+  "mean_tokens": 257.57851239669424,
+  "maximum_tokens": 343,
+  "minimum_characters": 2,
+  "median_characters": 1428,
+  "mean_characters": 1524.5853184248906,
+  "maximum_characters": 4563,
+  "empty_chunk_count": 0,
+  "duplicate_chunk_id_count": 0,
+  "duplicate_content_hash_count": 386,
+  "missing_required_metadata_count": 0,
+  "chunks_with_page_metadata": 1624,
+  "chunks_per_source": {
+    "SRC_ADM_001": 9,
+    "SRC_ADM_002": 16,
+    "SRC_ADM_003": 3,
+    "SRC_ADM_004": 8,
+    "SRC_ADM_005": 1,
+    "SRC_ADM_006": 8,
+    "SRC_ADM_007": 3,
+    "SRC_CAL_001": 6,
+    "SRC_CURR_001": 4,
+    "SRC_CURR_002": 5,
+    "SRC_CURR_003": 1,
+    "SRC_CURR_004": 14,
+    "SRC_CURR_005": 1,
+    "SRC_CURR_006": 1,
+    "SRC_CURR_007": 10,
+    "SRC_CURR_008": 7,
+    "SRC_EXT_DIP_001": 28,
+    "SRC_EXT_DIP_002": 17,
+    "SRC_FIN_001": 3,
+    "SRC_FIN_002": 4,
+    "SRC_HEALTH_001": 4,
+    "SRC_HEALTH_002": 10,
+    "SRC_HOUSING_001": 1,
+    "SRC_HOUSING_002": 4,
+    "SRC_HOUSING_003": 15,
+    "SRC_HOUSING_004": 6,
+    "SRC_HOUSING_005": 5,
+    "SRC_IMM_001": 4,
+    "SRC_IMM_002": 127,
+    "SRC_OFFICIAL_001": 2,
+    "SRC_OFFICIAL_002": 161,
+    "SRC_OFFICIAL_003": 367,
+    "SRC_OFFICIAL_004": 1096,
+    "SRC_PROG_001": 1,
+    "SRC_PROG_002": 5,
+    "SRC_PROG_003": 4,
+    "SRC_PROG_004": 4,
+    "SRC_PROG_005": 4,
+    "SRC_PROG_006": 4,
+    "SRC_PROG_007": 4,
+    "SRC_PROG_008": 4,
+    "SRC_PROG_009": 5,
+    "SRC_PROG_010": 4,
+    "SRC_PROG_011": 4,
+    "SRC_PROG_012": 5,
+    "SRC_PROG_013": 2,
+    "SRC_PROG_014": 3,
+    "SRC_PROG_015": 2,
+    "SRC_PROG_016": 5,
+    "SRC_PROG_017": 4,
+    "SRC_PROG_018": 6,
+    "SRC_PROG_019": 4,
+    "SRC_PROG_020": 4,
+    "SRC_PROG_021": 4,
+    "SRC_PROG_022": 3,
+    "SRC_PROG_023": 3,
+    "SRC_PROG_024": 3,
+    "SRC_PROG_025": 3,
+    "SRC_PROG_026": 2,
+    "SRC_PROG_027": 3,
+    "SRC_PROG_028": 3,
+    "SRC_PROG_029": 4
+  },
+  "chunks_per_source_group": {
+    "academic_calendar": 6,
+    "academic_matters": 33,
+    "accommodation": 31,
+    "admissions": 45,
+    "diploma_recognition": 45,
+    "financial_support": 7,
+    "health_insurance": 14,
+    "immigration": 131,
+    "programmes": 106,
+    "reenrolment": 4,
+    "regulations": 1626,
+    "student_life": 1,
+    "student_status": 5,
+    "university_structure": 3
+  },
+  "chunks_per_faculty": {
+    "<blank>": 1952,
+    "FDEF": 12,
+    "FHSE": 12,
+    "FSTM": 81
+  },
+  "largest_sources_by_chunk_count": [
+    [
+      "SRC_OFFICIAL_004",
+      1096
+    ],
+    [
+      "SRC_OFFICIAL_003",
+      367
+    ],
+    [
+      "SRC_OFFICIAL_002",
+      161
+    ],
+    [
+      "SRC_IMM_002",
+      127
+    ],
+    [
+      "SRC_EXT_DIP_001",
+      28
+    ],
+    [
+      "SRC_EXT_DIP_002",
+      17
+    ],
+    [
+      "SRC_ADM_002",
+      16
+    ],
+    [
+      "SRC_HOUSING_003",
+      15
+    ],
+    [
+      "SRC_CURR_004",
+      14
+    ],
+    [
+      "SRC_CURR_007",
+      10
+    ]
+  ],
+  "smallest_sources_by_chunk_count": [
+    [
+      "SRC_ADM_005",
+      1
+    ],
+    [
+      "SRC_PROG_001",
+      1
+    ],
+    [
+      "SRC_CURR_003",
+      1
+    ],
+    [
+      "SRC_CURR_005",
+      1
+    ],
+    [
+      "SRC_CURR_006",
+      1
+    ],
+    [
+      "SRC_HOUSING_001",
+      1
+    ],
+    [
+      "SRC_PROG_013",
+      2
+    ],
+    [
+      "SRC_PROG_015",
+      2
+    ],
+    [
+      "SRC_PROG_026",
+      2
+    ],
+    [
+      "SRC_OFFICIAL_001",
+      2
+    ]
+  ],
+  "cleaned_source_sha256": {
+    "SRC_ADM_001": "5226cabeb6acaa998eb7602578ab57d0ad239616ba0b6710baa1d8b3527b7cbf",
+    "SRC_ADM_002": "387b67924050fed752b196812c1d259626e0f6f0dcf16ffcca807e13bc9a6fab",
+    "SRC_ADM_003": "bf61a128978f7007b54b59df9b79ccd7b1eb1290983de13080709182ef800e86",
+    "SRC_ADM_004": "31b556a1c5b1fddaff72b2bba5def76fa17e1f04b91d9b0aa0511b81338d501f",
+    "SRC_ADM_005": "1fa41d4c429bec479cea1e7859eb108add3c4c0489e6152ddda093ee263864ff",
+    "SRC_ADM_006": "98265104d893bbbd9ab182491c946751d1d4a6c94d49fb6c8165fdf858182f15",
+    "SRC_ADM_007": "080b952f47a9029486f09a67a68e1c3c8d0503cf763f1f03db0929fac99ea2de",
+    "SRC_EXT_DIP_001": "0d9a010b4a9668e60262c52a6c58760f4d924b0f80f1780d5094c34173f7a072",
+    "SRC_EXT_DIP_002": "7fae904412f795f0303447f0b263fc549a7f9cc84b258928463d1f3e5f20398c",
+    "SRC_PROG_001": "c009bfa258b6caca09b37690c1ddcc4e09902e56ca8910873196b43c1151c069",
+    "SRC_PROG_002": "57906075028e8898fd431641dec6e407f11cdf5205e98c678d1c3024d6d88a9d",
+    "SRC_PROG_003": "75641ae4d95743823c7a18eb0790f11d381a459457be74ef3e7ef47a1b57b607",
+    "SRC_PROG_004": "6cfe40b8d493f8ec54a07b59676aa4144bcaebfc4259f41ebd0f0f2fc1767e5f",
+    "SRC_PROG_005": "f36f60231fcfc922046865f32ae71289dbbe57b7ab54c01bf5cc31775fd73aaa",
+    "SRC_PROG_006": "ed52571c6751931d99a5c0884d7dfabb9d1d6a661504b03a94881fc2edda604b",
+    "SRC_PROG_007": "668d4b845fa76423d23548fa76162c9afef5e345b21c6ca2af49a9012ccc65d3",
+    "SRC_PROG_008": "43bdbfcc0ee13a86b0ba32c52600f68338f78afc1da0d99d350b076f96c047f1",
+    "SRC_PROG_009": "db85bc8034ad7a7b045ad14ceb7d6a429a72530c05754fab060b49077cdf0560",
+    "SRC_PROG_010": "54dd0f955b0a1027312fe3c193c2612c43d5e5ba07688a444c66fd091ec80efd",
+    "SRC_PROG_011": "dbf7761e3aca654d02e6938c7c6731224faf1c4d0ffb4ae3e19ebcb445430b2e",
+    "SRC_PROG_012": "1edcde0c59dc984e5be84f60b69d5fd371a8a897495d87fafdf5147f80a90c26",
+    "SRC_PROG_013": "0f3cf25fbe2687712a50d2761195fe486d770c23384c1bc9c5273eef4a4957bf",
+    "SRC_PROG_014": "a6d6de0ab54e52ffb3266cdd02a71f8a1990f492c8e373926e290e3aa01ac13c",
+    "SRC_PROG_015": "74bc71fbf3647b0ad29f6c6e3e99944c0fa2a424ce48925aebd3f02966bbc93c",
+    "SRC_PROG_016": "53f303cb6b0d81e85634512391391880af8284e560cd1a4a85984d9b1ed3d9a0",
+    "SRC_PROG_017": "c876c89344c36072231a632fdc529fc80e81d926df77f75ad5744b9331ad9afa",
+    "SRC_PROG_018": "3472e47603956c6c0add51fbee52f5b4cfc39c87667b73aa3456cb27dc232807",
+    "SRC_PROG_019": "55c272196404443a138006b39c5d96308aa81f7e6b258cdf6d014c84ccbead91",
+    "SRC_PROG_020": "1867b48b438c760a2d3aa2234ec4c371796865514dc1220932347020de3c1930",
+    "SRC_PROG_021": "dae49d63e63979851ebdfce1627bc36050ab6dabcc6bd138b5ee2756f5377263",
+    "SRC_PROG_022": "3eb33d2d8994bb4658afbb995da236c09720d6a352a2d24c5ce9a1b0b40e5cfb",
+    "SRC_PROG_023": "6d6fd07f3dc62e58f7641078edc6f3d85838c100e6b50353f087a05a8086eaec",
+    "SRC_PROG_024": "9b241a22722629a374d83bc1b7e285691a1ad1e4e026e28bdaee4c6e81c1528f",
+    "SRC_PROG_025": "90399f54385cef074f629a38054bc9f5fd05f10b186583a5d3dcdd2ce5413379",
+    "SRC_PROG_026": "500aa76e20759af86c4c34ad4e8acfd0e971d515d97df6e61f863f5e1de9e5f5",
+    "SRC_PROG_027": "987ad1889e7b3404ce0ead3dd165c5f4f5e5014619022f3a3576a06bebe866e9",
+    "SRC_PROG_028": "04453772b930bdd714814f251a08950584b3fe9a8e9137065dbd614abd5f9ebe",
+    "SRC_PROG_029": "02c02c616d517d4bc70736c83766fc3cf769012d2f1ed2cea1b1beea73dd7443",
+    "SRC_CURR_001": "590ec7357857a566ce2bd26f0a8c825a8d13b0861f758071c91ceb4f47cfb608",
+    "SRC_CURR_002": "5e960ab614f3878ad039d68acf65dad67a995820062cb85cbebaf1c79eee6553",
+    "SRC_CURR_003": "403b5fc9880f189991920db5e94871e71238d8454e7deb5fc34a0f2d02d749da",
+    "SRC_CURR_004": "d89cb53f95126bbafd5902617b96239ea75bfa26c5039f0e29e67a7ef86cc0b3",
+    "SRC_CURR_005": "115683523d512ac87c659057fc244005dbacbdf0191ee74c9e7b605dab00f152",
+    "SRC_CURR_006": "03f81cf9f0b2dd0d191e8df8d27dad0a0a4832090f3fc0851cc04849971471a2",
+    "SRC_CURR_007": "0a01930a27b6e58326db655e2eb77ce684142b742d7ca79e5242191fa606ae1a",
+    "SRC_CURR_008": "31205dee9af5079dc874dc21a90abb2171ccd94b86d1cdff3947f9af9714cf78",
+    "SRC_OFFICIAL_001": "7e990a31d9372c755ada62c4fe21b7aa13aabf501b975c0ecb6f411ec94eed48",
+    "SRC_OFFICIAL_002": "8e7dc85a392329935c57598af968edc4de330782e7a7fe4f77d21b00ec613d0a",
+    "SRC_OFFICIAL_003": "a28200f25f76dd08529c7f2987e6fef61f7a91f67bf9e944c70b34b6809b92c6",
+    "SRC_OFFICIAL_004": "3b6059c0c56a054532cfe0bfea2ba11ac78f1297578cd8701e5529f575887f30",
+    "SRC_HOUSING_001": "4a37005342282f13a147a9fa12c4f897e7c6b922afa003986f00fffadc040c60",
+    "SRC_HOUSING_002": "7db4380c009130bb553a20be3624c6db9ad51655cae2fdaa69d25197ba5daca5",
+    "SRC_HOUSING_003": "6fd598b3d3eaab23ac1821d4c63e2172286b41b2a5f953d9eec06f8032334e54",
+    "SRC_HOUSING_004": "e4d4cc4883f074b8cf5c96f129a9d14ac4f056fef8fa929626726fe695f15c27",
+    "SRC_HOUSING_005": "3c4d551e48cce98a1696f1140ed225fb4c7cc1c455d32e7bb51efc5475699ace",
+    "SRC_IMM_001": "831d913c447b23b34981e049405adcdf2ab2991676095c6f6336dbe423a7e661",
+    "SRC_IMM_002": "a8bc349528824f7c3ceb1da123debaef9ce5a39af126319dc0d99487e05228d5",
+    "SRC_FIN_001": "9a8766b6089afbb327bb501196992029ef720547fa4e64b0558c09e003446ebf",
+    "SRC_FIN_002": "4a2b6e0fd36316fbb40c055aaa7806e3c0603c5eccadd7f2e01079ef60ab40ea",
+    "SRC_HEALTH_001": "23d4aee278b53e65bb93ae35d5aa2230d4c6cb77de85e2cd83522b4fc3321510",
+    "SRC_HEALTH_002": "aab5627ff667d542d2965598aae6fe473eaef07cd622285133e14e9dcfa144b6",
+    "SRC_CAL_001": "883cf015f3b48c8b958975858208b085c56bf4c942b4c629f502f8ec9ba64355"
+  }
+}
